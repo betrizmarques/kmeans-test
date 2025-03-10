@@ -1,2 +1,2 @@
 # kmeans-test
-Repositório criado para armazenar scripts das primeiras tentativas de criar modelos de clusterings em python
+Primeiros testes de criação de modelos de Machine Learning de Clusterização = KMeans
